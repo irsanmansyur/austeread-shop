@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "garnett";
+  src: url("./garnett/Garnett Black Italic.otf") format("otf"), url("./garnett/Garnett Black.otf") format("otf"), url("./garnett/Garnett Bold Italic.otf") format("otf"),
+    url("./garnett/Garnett Bold.otf") format("otf"), url("./garnett/Garnett Italic.otf") format("otf"), url("./garnett/Garnett Light Italic.otf") format("otf"),
+    url("./garnett/Garnett Medium Italic.otf") format("otf"), url("./garnett/Garnett Regular.otf") format("otf"), url("./garnett/Garnett Semibold Italic.otf") format("otf"),
+    url("./garnett/Garnett Semibold.otf") format("otf");
+}
+
+@font-face {
+  font-family: "PublicSansBlack";
+  src: url("./public-sans/PublicSans-Black.ttf");
+}
+@font-face {
+  font-family: "PublicSansBold";
+  src: url("./public-sans/PublicSans-Bold.ttf");
+}
+@font-face {
+  font-family: "PublicSansBoldItalic";
+  src: url("./public-sans/PublicSans-BoldItalic.ttf");
+}
+@font-face {
+  font-family: "PublicSanslight";
+  src: url("./public-sans/PublicSans-Light.ttf");
+}
+@font-face {
+  font-family: "PublicSansMedium";
+  src: url("./public-sans/PublicSans-Medium.ttf");
+}
+@font-face {
+  font-family: "PublicSansRegular";
+  src: url("./public-sans/PublicSans-Regular.ttf");
+}

@@ -1,0 +1,4 @@
+.navbar-menu .active::after {
+  content: "";
+  @apply absolute left-0 bottom-0 w-1/2 h-[2px] bg-primary rounded;
+}

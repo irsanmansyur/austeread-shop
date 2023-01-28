@@ -1,0 +1,4 @@
+.articles-header .title::after {
+  content: "";
+  @apply absolute bottom-[-5px] left-1/2 bg-primary -translate-x-1/2 w-1/2 h-[3px];
+}

@@ -1,0 +1,16 @@
+.articles-header .title::after {
+  content: "";
+  @apply absolute bottom-[-5px] left-1/2 bg-primary -translate-x-1/2 w-1/2 h-[3px];
+}
+
+.after-border::after {
+  content: "";
+  @apply absolute bottom-[-5px] left-1/2 bg-primary -translate-x-1/2 w-1/2 h-[3px];
+}
+
+.react-calendar__tile--now {
+  @apply !bg-primary;
+}
+.article-page-body p {
+  @apply py-2;
+}
